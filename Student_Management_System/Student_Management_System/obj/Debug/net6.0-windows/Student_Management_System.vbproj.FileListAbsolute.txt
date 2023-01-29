@@ -1,0 +1,9 @@
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.vbproj.AssemblyReference.cache
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.Form1.resources
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.login.resources
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.registration.resources
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.vbproj.GenerateResource.cache
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.AssemblyInfoInputs.cache
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.AssemblyInfo.vb
+D:\Aswathi\Projects\Student-Management-System\Student_Management_System\Student_Management_System\obj\Debug\net6.0-windows\Student_Management_System.vbproj.CoreCompileInputs.cache
