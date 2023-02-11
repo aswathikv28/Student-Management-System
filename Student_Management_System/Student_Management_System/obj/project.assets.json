@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aswathi\\Projects\\Student-Management-System\\Student_Management_System\\Student_Management_System\\Student_Management_System.vbproj",
+      "projectUniqueName": "D:\\Aswathi\\Student-Management-System\\Student_Management_System\\Student_Management_System\\Student_Management_System.vbproj",
       "projectName": "Student_Management_System",
-      "projectPath": "D:\\Aswathi\\Projects\\Student-Management-System\\Student_Management_System\\Student_Management_System\\Student_Management_System.vbproj",
+      "projectPath": "D:\\Aswathi\\Student-Management-System\\Student_Management_System\\Student_Management_System\\Student_Management_System.vbproj",
       "packagesPath": "C:\\Users\\AJAY\\.nuget\\packages\\",
-      "outputPath": "D:\\Aswathi\\Projects\\Student-Management-System\\Student_Management_System\\Student_Management_System\\obj\\",
+      "outputPath": "D:\\Aswathi\\Student-Management-System\\Student_Management_System\\Student_Management_System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AJAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
